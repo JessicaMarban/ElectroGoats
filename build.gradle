@@ -10,6 +10,7 @@ javafx {
     modules = [ 'javafx.controls', 'javafx.fxml' ]
 }
 
+mainClassName = 'Main'
 group 'electrogoats'
 version '1.0-SNAPSHOT'
 
